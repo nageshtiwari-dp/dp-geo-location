@@ -1,0 +1,15 @@
+{
+  "name": "ngInfiniteScroll",
+  "version": "1.3.0",
+  "description": "Infinite Scrolling for AngularJS",
+  "author": "Sroze",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
