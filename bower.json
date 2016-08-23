@@ -1,8 +1,8 @@
 {
-  "name": "ngInfiniteScroll",
-  "version": "1.3.0",
-  "description": "Infinite Scrolling for AngularJS",
-  "author": "Sroze",
+  "name": "dp-geo-location",
+  "version": "1.0.0",
+  "description": "Geo Location Library",
+  "author": "Nageshwar Tiwari",
   "dependencies": {
   },
   "ignore": [
